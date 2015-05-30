@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="primary_color">#F96D00</color>
+    <color name="primary_color">#F56F25</color>
+    <color name="primary_color_dark">#DC6321</color>
+    <color name="tabsScrollColor">#EEEEEE</color>
+    <color name="background">#EEE</color>
 
 </resources>

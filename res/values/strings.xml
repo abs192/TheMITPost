@@ -2,6 +2,9 @@
 <resources>
 
     <string name="app_name">MIT Post</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="img_descrp">Image</string>
 
 </resources>
